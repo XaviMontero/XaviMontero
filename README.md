@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a align='right'  href="https://app.daily.dev/Xavinoob"><img src="https://api.daily.dev/devcards/526e78b3c6694d559546e5693ad3a6f2.png?r=3x6" width="400" alt="Xavier Montero's Dev Card"/></a>
+<a align='right'  href="https://app.daily.dev/Xavinoob"><img src="https://api.daily.dev/devcards/526e78b3c6694d559546e5693ad3a6f2.png?r=3x6" width="200" alt="Xavier Montero's Dev Card"/></a>
 
 <!--
 **XaviMontero/XaviMontero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
